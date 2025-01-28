@@ -1,5 +1,5 @@
 SKU: 333121
-Full product name: CO sensor MQ7 breakout with easyC
+Full product name: CO sensor MQ7 breakout qwiic
 Country of origin: Croatia
-HS tariff code: 85319010
+HS tariff code: 85340090
 EAN/UPC barcode: 732388666300
